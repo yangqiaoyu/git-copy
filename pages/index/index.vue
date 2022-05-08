@@ -4,6 +4,9 @@
 		<view class="text-area">
 			<text class="title">{{title}}</text>
 		</view>
+			<view class="www">
+			22
+		</view>
 		<view class="www">
 			bbbbbbbbbbbbbbbbbbbbbb
 		</view>
