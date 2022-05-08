@@ -8,7 +8,7 @@
 			22
 		</view>
 		<view class="www">
-			bbbbbbbbbbbbbbbbbbbbbb
+			第二次
 		</view>
 		<!-- 有圈圈 手风琴效果 --> 
 		<uni-collapse accordion="true">
