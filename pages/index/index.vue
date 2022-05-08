@@ -5,7 +5,7 @@
 			<text class="title">{{title}}</text>
 		</view>
 		<view class="www">
-			wwwwww2123
+			bbbbbbbbbbbbbbbbbbbbbb
 		</view>
 		<!-- 有圈圈 手风琴效果 --> 
 		<uni-collapse accordion="true">
